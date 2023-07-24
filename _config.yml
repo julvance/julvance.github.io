@@ -8,7 +8,6 @@
 # Site Settings
 name: mirror-repository
 uses: yesolutions/mirror-action@v0.7.0
-
 locale                   : "en-US"
 title                    : "LEARNING MADE EASY"
 title_separator          : "-"
